@@ -1,2 +1,3 @@
-# croix.github.io
-My Link In Bio Site
+# Links
+
+A simple page with links to my various projects and interests.
