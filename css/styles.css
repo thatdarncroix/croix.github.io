@@ -49,7 +49,7 @@ body::-webkit-scrollbar {
 }
 
 .bordered-box {
-  border: 0.5px solid #fd9e22;
+  border: 0.5px solid #00ccff;
   background-color: #141414;
 
   border-radius: 12px;
@@ -61,7 +61,7 @@ body::-webkit-scrollbar {
 }
 
 .button {
-  border: 1px solid #fd9e22;
+  border: 1px solid #00ffff;
   color: #fd9e22;
 
   border-radius: 24px;
@@ -87,6 +87,12 @@ body::-webkit-scrollbar {
 .center {
   flex: 1;
   text-align: center;
+}
+
+.description {
+  flex: 2;
+  text-align: center;
+  font-size: 12px;  
 }
 
 .button:hover {
